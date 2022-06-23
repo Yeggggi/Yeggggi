@@ -6,4 +6,4 @@
 
 
 
-![Yeggggi's github stats](https://github-readme-stats.vercel.app/api?username=Yeggggiju&show_icons=true&hide_border=true)
+![Yeggggi's github stats](https://github-readme-stats.vercel.app/api?username=Yeggggi&show_icons=true&hide_border=true)
